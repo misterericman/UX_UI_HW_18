@@ -193,7 +193,7 @@ Intro
   color: #ffffff;
   width: 60%;
   float: left;
-  background: #c879b2 url(icons-3-pack.svg);
+  background: #570b41 url(icons-3-pack.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 101%;
@@ -243,6 +243,11 @@ Intro
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+.summary span {
+  font-family: 'Comic Neue', cursive;
+  font-style: italic;
+  font-weight: 300;
 }
   @media (max-width: 70em) {
     .intro .preamble {
